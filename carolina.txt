@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Student A
 Carolina Kimie Uehara
 
 hello!
+=======
+Carolina's Text Edited By Nischal and Pushed.
+>>>>>>> 1721ea26335da8fa188e8c91aa848f5d8432b95e
